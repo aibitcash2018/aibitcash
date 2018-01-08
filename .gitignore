@@ -19,9 +19,7 @@ install/win32/meta.py
 
 # various virtualenv
 src/.AibitCash/*.conf
-release/*
 src/obj/*
 src/obj-test/*
-AibitCash-qt.exe
 AibitCash
 src/AibitCashd
